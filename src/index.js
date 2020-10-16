@@ -4,11 +4,11 @@ All Rights Reserved.*/
 import React from "react";
 import ReactDOM from "react-dom";
 import "./styles.css";
-import App from "./components/App";
+import Components from "./Components";
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <Components />
   </React.StrictMode>,
   document.getElementById("root")
 );

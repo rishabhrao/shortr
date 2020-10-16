@@ -1,2 +1,28 @@
 /*Copyright © 2020 Rishabh Rao.
 All Rights Reserved.*/
+
+* {
+  text-align: center;
+  align-items: center;
+  align-content: center;
+  justify-content: center;
+}
+
+div {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+a {
+  color: inherit;
+}
+
+.App__body {
+  margin-top: 90px;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  width: 100vw;
+}
