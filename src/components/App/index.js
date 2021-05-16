@@ -1,4 +1,4 @@
-/*Copyright © 2020 Rishabh Rao.
+/*Copyright © 2021 Rishabh Rao.
 All Rights Reserved.*/
 
 import React, { useState } from "react";
@@ -84,7 +84,7 @@ const App = () => {
               <img href="logo192.png"></img>
             </IconButton>
             <Typography variant="h5">
-              Shortr By <a href="https://rishabhrao.tk">Rishabh Rao</a>
+              Shortr By <a href="https://rishabhrao.codes">Rishabh Rao</a>
             </Typography>
           </Toolbar>
         </AppBar>
